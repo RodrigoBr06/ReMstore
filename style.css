@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+     color:#dec11a;
+    text-align: center;
+}
+nav{
+
+}
+main{
+    background-color: rgba(240, 248, 255, 0.603);
+    display: inline-block;
+    padding: 40px;
+    border-radius: 10px;
+
+    
+
+    
+
+
+    
+}
+div{  
+    background-color:aliceblue ;
+    width: 40vw;
+    height: 60vh;
+    margin-top: 20px;
+    border-radius: 10px;
+  
+    
+
+
+
+   
+
+    
+    
+    
+    
+}
