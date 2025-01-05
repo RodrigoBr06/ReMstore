@@ -59,3 +59,20 @@ footer{
     
     
 }
+a{
+    text-decoration: none;
+    color: white;
+
+
+    
+
+}
+
+a:hover{
+color: rgb(229, 241, 10);
+
+}
+
+a:active{
+    color:rgb(15, 15, 1) ;
+}
