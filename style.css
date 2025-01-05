@@ -1,38 +1,59 @@
-body{
+
+
+    body{
     background-color: black;
-     color:#dec11a;
+    color: aliceblue;
     text-align: center;
 }
-nav{
-
-}
 main{
-    background-color: rgba(240, 248, 255, 0.603);
+    background-color:rgba(20, 20, 20, 0.192);
     display: inline-block;
-    padding: 40px;
-    border-radius: 10px;
+    width: 80vw;
+    height: 450vh;
+    left: 50%;
+    border-radius: 20px;
+    margin-top: 50px;
 
-    
-
-    
-
-
-    
+ 
 }
-div{  
-    background-color:aliceblue ;
-    width: 40vw;
+div{
+    display: inline-block;
+    left: 50%;
+    width:60vw ;
     height: 60vh;
-    margin-top: 20px;
-    border-radius: 10px;
-  
+    background-color:rgb(236, 237, 238);
+    margin-top: 40px;
+    color: rgb(14, 13, 13);
+    border-radius: 0px 40px 0px 20px;
     
 
-
-
+}
+#logox{
+    background-color: black;
    
+}
+img{
+    width:300px ;
+    height: 300px;
 
-    
+}
+#titulo{
+    color: rgba(219, 219, 37, 0.834);
+    font-size: 3em;
+}
+#logo{
+    width: 300px;
+    height: 300px;
+
+}
+footer{
+    background-color: rgb(128, 100, 84);
+    color: rgba(226, 226, 29, 0.834);
+    font-size:2em;
+    height: 500px;
+    border-radius: 220px;
+    padding-top: 10px;
+    margin-top: 20px;
     
     
     
