@@ -6,16 +6,16 @@
 }
 
     body{
-    background-color: rgb(251, 253, 255);
+    background-color: rgb(137, 183, 225);
     color: aliceblue;
     text-align: center;
     font-family: Satisfy, Arial, Helvetica, sans-serif;
 }
 main{
-    background-color:rgba(134, 146, 170, 0.517);
+    
     display: inline-block;
     width: 80vw;
-    height: 450vh;
+    height: 550vh;
     left: 50%;
     border-radius: 20px;
     margin-top: 50px;
@@ -70,7 +70,7 @@ img{
 
 }
 footer{
-    background-color: rgba(16, 15, 15, 0.352);
+    background-color:rgba(16, 16, 17, 0.218);
     color: black;
     font-size:2em;
     height: 300px;
