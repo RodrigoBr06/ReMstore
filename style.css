@@ -38,10 +38,9 @@ nav{
 div{
     display: inline-block ;
     left: 50%;
-   
     width: 370px;
     height: 400px;
-    margin-top: 50px;
+    margin-top: 70px;
     background-color:rgb(17, 18, 19);
 
     color: rgb(248, 244, 244);
@@ -58,6 +57,7 @@ img{
     width:300px ;
     height: 300px;
     display: inline-block;
+    margin-bottom: 50px;
 
 
 }
