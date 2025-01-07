@@ -38,7 +38,7 @@ nav{
 }
 
 div{
-    display: inline-block;
+    display: inline-flex;
     left: 50%;
     width:300px;
     height:350px;
@@ -60,7 +60,7 @@ img{
 
 }
 #titulo{
-    color: rgba(219, 219, 37, 0.834);
+    color: rgba(241, 241, 23, 0.944);
     font-size: 3em;
     
 }
@@ -75,7 +75,7 @@ footer{
     font-size:2em;
     height: 300px;
      padding-top: 10px;
-    margin-top: 20px;
+    
     
     
     
