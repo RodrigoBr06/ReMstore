@@ -12,11 +12,10 @@
     font-family: Satisfy, Arial, Helvetica, sans-serif;
 }
 main{
-    
     display: inline-block;
+    left: 50%;
     width: 80vw;
     height: 550vh;
-    left: 50%;
     border-radius: 20px;
     margin-top: 50px;
 
@@ -38,10 +37,12 @@ nav{
 }
 
 div{
-    display: inline-flex;
+    display: inline-block ;
     left: 50%;
-    width:300px;
-    height:350px;
+   
+    width: 300px;
+    height: 350px;
+
     background-color:rgb(17, 18, 19);
     margin-top: 40px;
     color: rgb(248, 244, 244);
