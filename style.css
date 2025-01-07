@@ -6,13 +6,13 @@
 }
 
     body{
-    background-color: rgb(12, 127, 242);
+    background-color: rgb(251, 253, 255);
     color: aliceblue;
     text-align: center;
     font-family: Satisfy, Arial, Helvetica, sans-serif;
 }
 main{
-    background-color:rgba(17, 90, 226, 0.936);
+    background-color:rgba(134, 146, 170, 0.517);
     display: inline-block;
     width: 80vw;
     height: 450vh;
@@ -25,11 +25,9 @@ main{
 nav{
     background-color: black;
     border: 0px solid black;
-    box-shadow: 1px 1px 2px black;
-    margin-bottom: 30px;
-    border-radius: 0px 0px 7px 7px;
     width: auto;
     height: 100px;
+    
     
     
     
@@ -42,8 +40,8 @@ nav{
 div{
     display: inline-block;
     left: 50%;
-    width:60vw ;
-    height: 60vh;
+    width:300px;
+    height:350px;
     background-color:rgb(17, 18, 19);
     margin-top: 40px;
     color: rgb(248, 244, 244);
@@ -73,7 +71,7 @@ img{
 }
 footer{
     background-color: rgba(16, 15, 15, 0.352);
-    color: rgba(249, 249, 245, 0.834);
+    color: black;
     font-size:2em;
     height: 300px;
      padding-top: 10px;
