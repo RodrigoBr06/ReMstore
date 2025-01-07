@@ -1,12 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+}
 
     body{
-    background-color: rgb(38, 41, 43);
+    background-color: rgb(12, 127, 242);
     color: aliceblue;
     text-align: center;
+    font-family: Satisfy, Arial, Helvetica, sans-serif;
 }
 main{
-    background-color:rgba(20, 20, 20, 0.936);
+    background-color:rgba(17, 90, 226, 0.936);
     display: inline-block;
     width: 80vw;
     height: 450vh;
@@ -16,6 +22,23 @@ main{
 
  
 }
+nav{
+    background-color: black;
+    border: 0px solid black;
+    box-shadow: 1px 1px 2px black;
+    margin-bottom: 30px;
+    border-radius: 0px 0px 7px 7px;
+    width: auto;
+    height: 100px;
+    
+    
+    
+    
+
+    
+
+}
+
 div{
     display: inline-block;
     left: 50%;
@@ -28,13 +51,10 @@ div{
     
 
 }
-#logox{
-    background-color: black;
-    left: 50%;
-    border-radius: 100px;
-    width: 500px;
-    height: 500px;
-   
+header{
+     background-color: black;
+     
+     
 }
 img{
     width:300px ;
@@ -44,6 +64,7 @@ img{
 #titulo{
     color: rgba(219, 219, 37, 0.834);
     font-size: 3em;
+    
 }
 #logo{
     width: 300px;
@@ -51,12 +72,11 @@ img{
 
 }
 footer{
-    background-color: rgb(128, 100, 84);
-    color: rgba(226, 226, 29, 0.834);
+    background-color: rgba(16, 15, 15, 0.352);
+    color: rgba(249, 249, 245, 0.834);
     font-size:2em;
-    height: 500px;
-    border-radius: 220px;
-    padding-top: 10px;
+    height: 300px;
+     padding-top: 10px;
     margin-top: 20px;
     
     
